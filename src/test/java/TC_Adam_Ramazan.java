@@ -4,5 +4,6 @@ public class TC_Adam_Ramazan {
         //Feel free to make changes dear team lead: Ahmet
         // I just ran the code and i'm able to see the target folder now:))
         // any commands?
+        System.out.println("Working on my test Scenario");
     }
 }
